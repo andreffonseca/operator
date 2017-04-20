@@ -1,0 +1,9 @@
+{
+    "config": {
+        "vendor-dir": "src/vendor"
+    },
+    
+    "require": {
+        "catfan/Medoo": "^1.2"
+    }
+}

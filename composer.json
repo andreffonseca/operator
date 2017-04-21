@@ -1,9 +1,10 @@
 {
     "config": {
-        "vendor-dir": "src/vendor"
+        "vendor-dir": "vendor"
     },
     
     "require": {
-        "catfan/Medoo": "^1.2"
+        "catfan/Medoo": "^1.2",
+        "symfony/class-loader": "v3.2.*"
     }
 }
